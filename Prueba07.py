@@ -16,7 +16,7 @@ def multiplicacion(a,b):
     return resultado
 
 def division(a,b):
-    resultado = a / b
+    resultado = a // b
     return resultado
 
 n1 = int(input("Primer numero -->"))
