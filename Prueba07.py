@@ -32,4 +32,7 @@ elif opciones == 3:
     print("La multiplicacion de", n1, "y", n2, " es", multiplicacion(n1, n2))
 elif opciones == 4:
     print("La divicion de", n1, "y", n2, " es", division(n1, n2))
+elif opciones == 5:
+    print("Gracias!")
+    exit()
 
