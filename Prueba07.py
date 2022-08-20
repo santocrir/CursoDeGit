@@ -33,6 +33,6 @@ elif opciones == 3:
 elif opciones == 4:
     print("La divicion de", n1, "y", n2, " es", division(n1, n2))
 elif opciones == 5:
-    print("Gracias!")
+    print("Gracias por usar nuestra calculadora!")
     exit()
 
